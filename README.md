@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Siddiqui</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend developer,Web developer & UI/UX designer.</h3>
 
 - 🌱 I’m currently learning **Data Science, Python**
 

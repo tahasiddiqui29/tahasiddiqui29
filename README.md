@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science, Python**
 
-- 👯 I’m looking to collaborate on **UI/UX related feilds**
+- 👯 I’m looking to collaborate on **UI/UX related fields**
 
 - 📝 I regularly write articles on [https://medium.com/@siddiquitahaaa](https://medium.com/@siddiquitahaaa)
 
